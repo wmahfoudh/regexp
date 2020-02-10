@@ -1,0 +1,9 @@
+﻿  generic.c
+d:\code\projects\regexp\generic.c(257): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\code\projects\regexp\generic.c(258): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\code\projects\regexp\generic.c(259): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+d:\code\projects\regexp\generic.c(496): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  regexp.c
+  Generating Code...
+     Creating library .\regexp.lib and object .\regexp.exp
+  regexp.vcxproj -> D:\code\projects\regexp\.\regexp.xll
