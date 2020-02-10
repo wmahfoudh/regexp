@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 # custom
-**/.vs/**
-**/regexp.tlog/**
+.vs/
+regexp.tlog/
 *.db
+*.log
