@@ -51,6 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# folders
+# custom
 **/.vs/**
 **/regexp.tlog/**
+*.db
